@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: single
+author_profile: true
 title: "Moïra-Phoebé Huet"
 excerpt: "Postdoctoral researcher in auditory neuroscience"
 ---
