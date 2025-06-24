@@ -1,0 +1,124 @@
+education:
+  - degree: PhD in Psychoacoustics
+    institution: INSA / University of Lyon, France
+    year: 2020
+    details: "Thesis on voice separation in speech-on-speech using behavioral and neurophysiological methods"
+
+  - degree: Master in Statistics
+    institution: KU Leuven, Belgium
+    year: 2018
+
+  - degree: Master in Clinical Neuropsychology & Cognitive Psychology
+    institution: Université Libre de Bruxelles (ULB), Belgium
+    year: 2013
+
+  - degree: Master in Consumer, Work & Organizational Psychology
+    institution: Université Libre de Bruxelles (ULB), Belgium
+    year: 2012
+
+  - degree: Bachelor in Pedagogy & Psychological Sciences
+    institution: Université Libre de Bruxelles (ULB), Belgium
+    year: 2010
+
+positions:
+  - title: Postdoctoral Fellow
+    institution: Johns Hopkins University, Laboratory for Computational Audio Perception (LCAP)
+    location: Baltimore, USA
+    year: "2020–present"
+    details: "Investigating how cognitive functions (working memory, attention, goals) influence auditory and speech processing using EEG and computational models"
+
+  - title: Doctoral Researcher
+    institution: University of Lyon / CNRS CRNL / LVA
+    location: Lyon, France
+    year: "2016–2020"
+    details: "PhD on voice separation and auditory attention with EEG"
+
+teaching:
+  - title: Instructor in Statistics
+    institution: Université Lyon 2
+    year: 2018
+    details: "Lectures and assessment for undergraduate course in cognitive science"
+
+  - title: Substitute Teacher
+    institution: Athénée Royal, Brussels
+    year: 2014
+    details: "Taught social sciences, philosophy, ethics and French"
+
+  - title: Private Tutor (Math, Stats)
+    institution: Belgium
+    year: "2003–2015"
+
+supervision:
+  - level: Master students
+    names: 
+      - Aurelie Allheilig (2016)
+      - Alice de Gabrielli (2016)
+      - Julien Haye (2016)
+      - Célia Maldonado (2016)
+      - Laurie Bazin (2017)
+      - Lina Bourgeois (2017)
+      - Lucie Vallet (2017)
+      - Alice Witkowski (2017)
+      - Charline Lafont (2018)
+      - Mathilde Quentel (2018)
+
+  - level: Undergraduate students
+    names:
+      - Mary Shin (2021–2023)
+      - Andrea Ruitao Liu (2023–2024)
+
+honors:
+  - title: Winner, Coding Challenge Competition
+    year: 2024
+    institution: Johns Hopkins University
+
+  - title: Regional Finalist, MT180
+    year: 2018
+    institution: Lyon, France
+
+  - title: Best Poster Award
+    year: 2018
+    institution: 11èmes Journées Jeunes Chercheurs, Brest
+
+leadership:
+  - title: Co-President, Homewood Postdoctoral Association
+    year: 2023–2024
+
+  - title: Secretary, Homewood Postdoctoral Association
+    year: 2022–2023
+
+  - title: Organizer & Chair, CeLyA Doctoral Day
+    year: 2018
+
+  - title: Science Festival Workshop Facilitator
+    year: "2017–2018"
+
+reviews:
+  - journal: Frontiers in Neuroscience
+    count: 2
+
+  - journal: Hearing Research
+    count: 1
+
+  - journal: Journal of the Acoustical Society of America
+    count: 1
+
+skills:
+  - category: Programming & Data Analysis
+    items: [Python, MATLAB, R, SPSS, JASP]
+
+  - category: Experimental Tools
+    items: [OpenSesame, E-Prime]
+
+  - category: Productivity & Writing
+    items: [Microsoft Office, LaTeX]
+
+  - category: Design
+    items: [Photoshop, Illustrator]
+
+languages:
+  - idiom: French
+    level: Native
+
+  - idiom: English
+    level: Fluent (C1)
