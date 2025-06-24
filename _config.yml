@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Moïra-Phoebé Huet"
-  pronouns         : "she/her"
+  #pronouns         : "she/her"
   bio              : "Postdoctoral researcher in auditory neuroscience and cognitive science"
   location         : "Baltimore, USA"
   employer         : "Johns Hopkins University"
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "mphuet"
+  #github           : "mphuet"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
