@@ -9,13 +9,12 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+title                    : "Moïra-Phoebé Huet, PhD"
+name                     : &name "Moïra-Phoebé Huet"
+description              : &description "Postdoctoral researcher in cognitive neuroscience, specializing in auditory attention and EEG."
+url                      : "https://mphuet.github.io"
+repository               : "mphuet/mphuet.github.io"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,13 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Moïra-Phoebé Huet"
+  pronouns         : "she/her"
+  bio              : "Postdoctoral researcher in auditory neuroscience and cognitive science"
+  location         : "Baltimore, USA"
+  employer         : "Johns Hopkins University"
+  email            : "mphuet@jhu.edu"  # ← mets ton vrai mail ici
+  orcid            : "https://orcid.org/0000-0002-0470-0894"  # ← remplace par ton ORCID réel si tu en as un
+  github           : "mphuet"
 
   # Academic websites
   academia         : # URL
@@ -51,30 +51,30 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  bluesky          : "https://bsky.app/profile/mphuet.bsky.social"
+  #facebook         : # Username
+  #flickr           : # Username
+  #foursquare       : # Username
+  #goodreads        : # Username
+  #google_plus      : # Username
+  #keybase          : # Username
+  #instagram        : # Username
+  #lastfm           : # Username
+  linkedin         : "in/mphuet"
+  #mastodon         : # URL
+  #medium           : # URL
+  #pinterest        : # Username
+  #soundcloud       : # Username
+  #steam            : # Username
+  #telegram         : # URL
+  #tumblr           : # Username
+  #twitter          : # Username for X / Twitter
+  #vine             : # Username
+  #weibo            : # Username
+  #wikipedia        : # Username
+  #xing             : # Username
+  #youtube          : # Username
+  #zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
