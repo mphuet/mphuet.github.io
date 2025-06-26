@@ -1,9 +1,8 @@
 ---
-layout: page
 title: "Academic Life"
 permalink: /academiclife/
+layout: single
 author_profile: true
-
 ---
 
 ### Teaching Experience
@@ -38,4 +37,4 @@ author_profile: true
 
 ---
 
-*For full academic and professional details, see my [CV (PDF)](/files/Moira_Huet_CV.pdf).*
+*For full academic and professional details, see my [CV (PDF)](/files/HuetMPh_Resume2025.pdf).*
