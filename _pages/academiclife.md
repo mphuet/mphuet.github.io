@@ -14,10 +14,6 @@ author_profile: true
 
 ### Academic Engagement
 
-- **Organizing & Leadership**  
-  - Co-lead of weekly journal clubs (JHU, 2024–2025)  
-  - Initiator of informal TRF learning groups and EEG troubleshooting sessions
-
 - **Leadership & Event Organization**
   - 2023-2024: Co-President of the Homewood Postdoctoral Association, Johns Hopkins University.
   - 2022-2023: Secretary of the Homewood Postdoctoral Association, Johns Hopkins University.
