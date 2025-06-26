@@ -2,6 +2,8 @@
 layout: page
 title: "Academic Life"
 permalink: /academiclife/
+author_profile: true
+
 ---
 
 ### Teaching Experience
