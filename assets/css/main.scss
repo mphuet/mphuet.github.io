@@ -62,3 +62,35 @@ body {
 .masthead {
   height: auto;
 }
+
+/* === Modern Neuroscience Slate + Teal Palette === */
+
+:root {
+  --global-bg-color: #FAFAFA;
+  --global-text-color: #333333;
+  --global-link-color: #0F766E;
+  --global-link-color-hover: #0B5F59;
+  --global-masthead-link-color: #1F2933;
+}
+
+/* Titles */
+.page__title,
+.archive__item-title {
+  color: #1F2933;
+}
+
+/* Links */
+a {
+  color: #0F766E;
+}
+
+a:hover {
+  color: #0B5F59;
+}
+
+/* Subtle refinement */
+.masthead {
+  background-color: #FFFFFF;
+  border-bottom: 1px solid #E5E7EB;
+}
+
