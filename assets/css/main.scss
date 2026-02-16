@@ -124,3 +124,25 @@ a:hover {
 }
 
 
+/* === Reduce sidebar width (modern faculty layout) === */
+
+@media (min-width: 64em) {  /* large screens */
+  .sidebar {
+    width: 250px;
+  }
+
+  .page {
+    width: calc(100% - 250px);
+  }
+}
+
+/* Slightly narrower on medium screens */
+@media (min-width: 48em) and (max-width: 64em) {
+  .sidebar {
+    width: 230px;
+  }
+
+  .page {
+    width: calc(100% - 230px);
+  }
+}
