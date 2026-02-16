@@ -349,7 +349,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
+    
 head_scripts:
-  - https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap
+  - https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap
+
 
