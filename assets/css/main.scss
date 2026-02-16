@@ -88,21 +88,39 @@ a:hover {
   color: #0B5F59;
 }
 
-/* Subtle refinement */
-
-.masthead {
-  background-color: #FAFAFA;
-  border-bottom: 1px solid #E5E7EB;
-}
+/* === Sidebar avatar clean & balanced === */
 
 .author__avatar img {
-  width: 160px;      /* essaie 110–130px */
+  width: 160px;
   height: auto;
   border-radius: 999px;
-}
-
-.author__avatar img {
   border: 2px solid #E5E7EB;
   background: #FAFAFA;
 }
+
+/* Center the author block visually */
+.author__avatar {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+/* Tighten name spacing */
+.author__name {
+  font-size: 1.2rem;
+  line-height: 1.25;
+  margin-bottom: 0.4rem;
+}
+
+/* Bio spacing */
+.author__bio {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin-top: 0.25rem;
+}
+
+/* Reduce excessive sidebar padding */
+.sidebar {
+  padding-top: 0.75rem;
+}
+
 
