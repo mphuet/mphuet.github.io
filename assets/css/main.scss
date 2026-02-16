@@ -47,3 +47,14 @@ body {
   font-size: 18px;
   line-height: 1.6;
 }
+
+/* Tighten overall page spacing (more faculty/portfolio-like) */
+body {
+  padding-top: 52px;      /* was ~70px */
+  padding-bottom: 5.5em;  /* was 9em */
+}
+
+/* Optional: slightly tighten the masthead height */
+.masthead {
+  height: auto;
+}
