@@ -95,4 +95,15 @@ a:hover {
   border-bottom: 1px solid #E5E7EB;
 }
 
+/* Make sidebar avatar less attention-grabbing */
+.author__avatar img {
+  filter: saturate(0.75) contrast(0.95) brightness(1.03);
+  opacity: 0.92;
+}
+
+/* Optional: bring back full color on hover */
+.author__avatar img:hover {
+  filter: none;
+  opacity: 1;
+}
 
