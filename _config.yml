@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Moïra-Phoebé Huet, PhD"
 name                     : &name "Moïra-Phoebé Huet"
-description              : &description "Postdoctoral researcher in cognitive neuroscience, specializing in auditory attention."
+description              : &description "Assistant Research Scientist in cognitive neuroscience, specializing in auditory attention."
 url                      : "https://mphuet.github.io"
 repository               : "mphuet/mphuet.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Moïra-Phoebé Huet"
   #pronouns         : "she/her"
-  bio              : "Postdoctoral researcher in auditory neuroscience and cognitive science"
+  bio              : "Assistant Research Scientist in auditory neuroscience and cognitive science"
   location         : "Baltimore, USA"
   employer         : "Johns Hopkins University"
   email            : "mphuet@jhu.edu"  # ← mets ton vrai mail ici
