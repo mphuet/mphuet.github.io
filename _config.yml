@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Moïra-Phoebé Huet, PhD"
 name                     : &name "Moïra-Phoebé Huet"
-description              : &description "Assistant Research Scientist in cognitive neuroscience, specializing in auditory attention."
+description              : &description "Auditory Neuroscience · Attention · Computational Modeling"
 url                      : "https://mphuet.github.io"
 repository               : "mphuet/mphuet.github.io"
 
