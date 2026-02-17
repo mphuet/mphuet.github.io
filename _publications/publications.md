@@ -5,11 +5,13 @@ layout: single
 author_profile: true
 ---
 
-### Peer-reviewed articles
+### Journal articles
 
 - **Huet, M.-Ph.**, Micheyl, C., Gaudrain, E., Parizet, E. (2022). Vocal and semantic cues for the segregation of long concurrent speech stimuli in diotic and dichotic listening—The Long-SWoRD test. *Journal of the Acoustical Society of America, 151(3)*, 1557–1574. [link](https://doi.org/10.1121/10.0007225)
 
 - **Huet, M.-Ph.**, Micheyl, C., Parizet, E., Gaudrain, E. (2021). Behavioral account of attended stream enhances neural tracking. *Frontiers in Neuroscience, 15:674112*. [link](https://doi.org/10.3389/fnins.2021.674112)
+
+### Peer-reviewed conferences
 
 - **Huet, M.-Ph.**, Micheyl, C., Gaudrain, E., Parizet, E. (2018). Who are you listening to? Towards a dynamic measure of auditory attention to speech-on-speech. *Interspeech 2018*, 2272–2275. [link](https://doi.org/10.21437/Interspeech.2018-2053)
 
@@ -25,8 +27,3 @@ author_profile: true
 
 - **Huet, M.-Ph.**, Elhilali, M. (2025). The shape of attention: How cognitive goals sculpt cortical representation of speech. *bioRxiv*. [link](https://doi.org/10.1101/2025.05.22.655464)
 
----
-
-### In preparation
-
-- **Huet, M.-Ph.**, Micheyl, C., Parizet, E., Gaudrain, E. The effect of vocal characteristics on brain’s temporal response function (in prep.)
