@@ -147,4 +147,11 @@ a:hover {
   }
 }
 
+/* === Widen main content column === */
+
+@media (min-width: 64em) {
+  .page {
+    max-width: 900px;   /* essaie 880–1000px selon ton goût */
+  }
+}
 
