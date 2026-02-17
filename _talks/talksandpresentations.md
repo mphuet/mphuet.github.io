@@ -12,7 +12,7 @@ author_profile: true
 - **Huet M.-Ph.** (April 2018). Who are you listening to? Towards a dynamic measure of auditory attention to speech-on-speech, University Medical Center Groningen, Groningen, Netherlands, 18 May 2018.
 
 ---
-### Conference Presentations (Talks & Posters)
+### Conference Presentations
 #### As presenting author
 - **Huet M.-Ph.** & Elhilali M. (2025). The shape of attention: How cognitive goals sculpt cortical representation of speech. *CogHear 2025*, College Park, USA. Poster. 
 - **Huet M.-Ph.** & Elhilali M. (2025). Neural representation of auditory sound categories across cognitive tasks in electroencephalography. *188th Meeting of the Acoustical Society of America*, New Orleans, USA. Poster.
