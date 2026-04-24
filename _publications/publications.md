@@ -4,6 +4,7 @@ permalink: /publications/
 layout: single
 author_profile: true
 pagination: false
+show_pagination: false
 ---
 
 ### Journal articles
