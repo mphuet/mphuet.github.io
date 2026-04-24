@@ -1,6 +1,6 @@
 ---
 title: "Academic Life"
-permalink: /academiclife/
+permalink: /codes/
 layout: single
 author_profile: true
 pagination: false
