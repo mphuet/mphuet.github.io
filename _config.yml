@@ -257,6 +257,8 @@ defaults:
       author_profile: true
       share: false
       comments: false
+      pagination: false
+
   # _publications
   - scope:
       path: ""
@@ -266,6 +268,8 @@ defaults:
       author_profile: true
       share: false
       comments: false
+      pagination: false
+
   # _portfolio
   - scope:
       path: ""
@@ -275,6 +279,8 @@ defaults:
       author_profile: true
       share: false
       comments: false
+      pagination: false
+
   # _talks
   - scope:
       path: ""
@@ -283,6 +289,7 @@ defaults:
       layout: talk
       author_profile: true
       share: false
+      pagination: false
 
 
 # Sass/SCSS
