@@ -8,8 +8,8 @@ author_profile: true
 ### Invited talks
 - **Huet M.-Ph.** (April 2023). Exploring Speaker Segregation and Task Demand Effects in Human Neural Tracking, Center of Hearing and Balance, Baltimore, US.
 - **Huet M.-Ph.** (January 2022). The neural tracking of speakers in psychoacoutics, UMons University, Mons, Belgium.
-- **Huet M.-Ph.** (February 2019). Brain’s temporal response function: Can it be improved with behavioural account of attended stream, Labex CeLya, Lyon, France,4  2019.
-- **Huet M.-Ph.** (April 2018). Who are you listening to? Towards a dynamic measure of auditory attention to speech-on-speech, University Medical Center Groningen, Groningen, Netherlands, 18 May 2018.
+- **Huet M.-Ph.** (February 2019). Brain’s temporal response function: Can it be improved with behavioural account of attended stream, Labex CeLya, Lyon, France.
+- **Huet M.-Ph.** (April 2018). Who are you listening to? Towards a dynamic measure of auditory attention to speech-on-speech, University Medical Center Groningen, Groningen, Netherlands.
 
 ---
 ### Conference Presentations
