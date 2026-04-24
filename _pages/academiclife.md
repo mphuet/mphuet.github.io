@@ -7,9 +7,8 @@ pagination: false
 ---
 
 ### Teaching Experience
-- **University**  
-  - 2021, 2023: Guest Lecturer (single session), Audio Signal Processing (Graduate Level), Department of Electrical & Computer Engineering, Johns Hopkins University. *Lecture topic: Psychoacoustics*
-  - Fall 2018: Instructor, Applied Statistics (Undergraduate level), Psychology Department, University Lyon 2, France. *Delivered lectures, designed and assessed assignments for an undergraduate cognitive sciences course.*
+- 2021, 2023: Guest Lecturer (single session), Audio Signal Processing (Graduate Level), Department of Electrical & Computer Engineering, Johns Hopkins University. *Lecture topic: Psychoacoustics*
+- Fall 2018: Instructor, Applied Statistics (Undergraduate level), Psychology Department, University Lyon 2, France. *Delivered lectures, designed and assessed assignments for an undergraduate cognitive sciences course.*
 
 ---
 
