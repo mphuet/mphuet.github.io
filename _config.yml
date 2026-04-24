@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "About"
+title                    : "Moïra-Phoebé Huet"
 name                     : &name "Moïra-Phoebé Huet"
 description              : &description "Auditory Neuroscience · Attention · Computational Modeling"
 url                      : "https://mphuet.github.io"
