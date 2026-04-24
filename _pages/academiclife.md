@@ -23,7 +23,7 @@ pagination: false
   - Secretary, Homewood Postdoctoral Association, Johns Hopkins University, 2022–2023
   - Organizer & Session Chair, CeLyA Doctoral Research Day, Lyon, France, 2018
 
-- **Outreach Achievements **
+- **Outreach Achievements**
   - Co-creator & Facilitator, Interactive Workshop, Science Festival, 2017–2018
     
 ---
