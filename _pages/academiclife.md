@@ -3,34 +3,37 @@ title: "Academic Life"
 permalink: /academiclife/
 layout: single
 author_profile: true
+pagination: false
 ---
 
 ### Teaching Experience
-
-- **Instructor / Guest Lecturer**  
-  - *Statistics for Cognitive Science* (R and SPSS), 2018, Université Lyon 2  
+- **University**  
+  - 2021, 2023: Guest Lecturer (single session), Audio Signal Processing (Graduate Level), Department of Electrical & Computer Engineering, Johns Hopkins University. *Lecture topic: Psychoacoustics*
+  - Fall 2018: Instructor, Applied Statistics (Undergraduate level), Psychology Department, University Lyon 2, France. *Delivered lectures, designed and assessed assignments for an undergraduate cognitive sciences course.*
 
 ---
 
 ### Academic Engagement
 
-- **Leadership & Event Organization**
-  - 2023-2024: Co-President of the Homewood Postdoctoral Association, Johns Hopkins University.
-  - 2022-2023: Secretary of the Homewood Postdoctoral Association, Johns Hopkins University.
-  - 2018: Organizer & Session Chair – CeLyA Doctoral Day, March 8, 2018
-  - 2017 & 2018: Co-creator and facilitator of an interactive workshop at the Science Festival
-
 - **Peer Review Activities**
-  - 2021-: Reviewer for Frontiers in Neuroscience (2), Hearing Research (1) and JASA (1)
+  - Reviewer: Neuron; Journal of the Acoustical Society of America; Hearing Research; Cortex; Frontiers in Neuroscience
+    
+- **Leadership & Event Organization**
+  - Co-President, Homewood Postdoctoral Association, Johns Hopkins University, 2023–2024
+  - Secretary, Homewood Postdoctoral Association, Johns Hopkins University, 2022–2023
+  - Organizer & Session Chair, CeLyA Doctoral Research Day, Lyon, France, 2018
+
+- **Outreach Achievements **
+  - Co-creator & Facilitator, Interactive Workshop, Science Festival, 2017–2018
+    
+---
+
+### Honors & Awards
+
+- Winner, Coding Challenge Competition, Johns Hopkins University, 2024 
+- Regional Finalist, My Thesis in 180 Seconds (MT180), Lyon, France, 2018 
+- Best Poster Award, Early-Career Researchers’ Meeting in Auditory Science, Brest, France, 2018
 
 ---
 
-### Awards & Outreach Achievements
-
-- 2024: Winner of the Coding Challenge Competition, organized by Johns Hopkins University.
-- 2018: Regional Finalist in the "My Thesis in 180 Seconds" (MT180) competition, Lyon, France.
-- 2018: Best poster jury award at the 11èmes Journées Jeunes Chercheurs en audition, acoustique musicale et signal audio, Brest, France.
-
----
-
-*For full academic and professional details, see my [CV (PDF)](/files/HuetMPh_Resume2025.pdf).*
+*For full academic and professional details, see my [CV (PDF)](/files/Huet_CV2026_web.pdf).*
