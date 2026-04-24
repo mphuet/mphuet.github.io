@@ -25,5 +25,5 @@ author_profile: true
 
 ### Preprint
 
-- **Huet, M.-Ph.**, Elhilali, M. (2025). The shape of attention: How cognitive goals sculpt cortical representation of speech. *bioRxiv*. [link](https://doi.org/10.1101/2025.05.22.655464)
+- **Huet, M.-Ph.**, Elhilali, M. (2025). The shape of attention: How cognitive goals sculpt cortical representation of speech. Accepted in principle at Communications Biology. *bioRxiv*. [link](https://doi.org/10.1101/2025.05.22.655464)
 
