@@ -247,6 +247,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      pagination: false
   # _teaching
   - scope:
       path: ""
