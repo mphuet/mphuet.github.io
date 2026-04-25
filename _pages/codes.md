@@ -8,7 +8,7 @@ pagination: false
 
 ### Datasets
 
-- **Huet, M.-Ph.**, Micheyl, & Elhilali, M. (2026).  
+- **Huet, M.-Ph.**, & Elhilali, M. (2026).  
   *The shape of attention reflects flexible filtering of natural speech modulations* (Version 1). 
   Zenodo. https://doi.org/10.5281/zenodo.19745687  [link](https://doi.org/10.5281/zenodo.19745687)
   Associated publication: https://doi.org/10.1101/2025.05.22.655464  [link](https://doi.org/10.1101/2025.05.22.655464 )
@@ -21,7 +21,7 @@ pagination: false
 ---
 
 ### Codes
-- **Huet, M.-Ph.**, Micheyl, & Elhilali, M. (2026). 
+- **Huet, M.-Ph.**, & Elhilali, M. (2026). 
 *MatGaborSTM* (Version 1.0.1).
 Github. https://github.com/JHU-LCAP/MatGaborSTM  [link](https://github.com/JHU-LCAP/MatGaborSTM)
 Associated publication: https://doi.org/10.1101/2025.05.22.655464  [link](https://doi.org/10.1101/2025.05.22.655464 )
