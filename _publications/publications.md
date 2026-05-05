@@ -9,6 +9,8 @@ show_pagination: false
 
 ### Journal articles
 
+- **Huet, M.-Ph.**, Elhilali, M. (in press). The shape of attention reflects flexible filtering of natural speech modulations. *Communications Biology*.
+
 - **Huet, M.-Ph.**, Micheyl, C., Gaudrain, E., Parizet, E. (2022). Vocal and semantic cues for the segregation of long concurrent speech stimuli in diotic and dichotic listening—The Long-SWoRD test. *Journal of the Acoustical Society of America, 151(3)*, 1557–1574. [link](https://doi.org/10.1121/10.0007225)
 
 - **Huet, M.-Ph.**, Micheyl, C., Parizet, E., Gaudrain, E. (2021). Behavioral account of attended stream enhances neural tracking. *Frontiers in Neuroscience, 15:674112*. [link](https://doi.org/10.3389/fnins.2021.674112)
